@@ -12,12 +12,13 @@
 
 **Email:** [ms20900304@my.sliit.lk](ms20900304@my.sliit.lk) 
 
+**Report:** [https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx](https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx)
 
 
 ## Setting up the Authorization and Resource Servers
 
 
-Refer the following link to download the  instructions on setting up Authorization and Resource Servers:
+Please refer the report contained in the following link to download the instructions on setting up Authorization and Resource Servers:
 
 [https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx](https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx)
 
