@@ -32,7 +32,7 @@
     if (! isset($_GET['code'])) {
         //Create authorization URL to be sent to Google when redirecting for permissions
         $auth_url = $client->createAuthUrl();
-        //Refresh the page to go to the initial page
+       //Redirect page to the created authorization URL
         header('Location: ' . filter_var($auth_url, FILTER_SANITIZE_URL));
     } else {
         //If the authorization is provided, set the access token for the session and redirect the URI to initial page
