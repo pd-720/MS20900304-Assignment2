@@ -1,5 +1,6 @@
-# MS20900304-Assignment2-OAuth2 demonstration
+# SS-Assignment2-OAuth2 demonstration
 
+**Subject:** Software Security - IE5042
 
 **Assignment Name:** Assignment2-OAuth2 demonstration
 
