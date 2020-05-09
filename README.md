@@ -2,7 +2,7 @@
 
 **Subject:** Software Security - IE5042
 
-**Assignment Name:** Assignment2-OAuth2 demonstration
+**Assignment Name:** OAuth2 demonstration
 
 **Description:** 	Demonstrate OAuth2 authorization flows using Google OAuth2 as authorization server and Google Drive as resource server 
 
