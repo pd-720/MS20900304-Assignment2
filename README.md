@@ -71,7 +71,7 @@ Execute the following commands:
     php composer.phar update
     
 
-# Setting up the Authorization and Resource Servers
+## Setting up the Authorization and Resource Servers
 
 Please refer the report contained in the following link to download the instructions on setting up Authorization and Resource Servers:
 
@@ -79,7 +79,7 @@ Please refer the report contained in the following link to download the instruct
 
 
 
-# Running the Web Application
+## Running the Web Application
 
 Run the application by using the following commands: 
 
