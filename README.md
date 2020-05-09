@@ -15,15 +15,7 @@
 **Report:** [https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx](https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx)
 
 
-## Setting up the Authorization and Resource Servers
-
-
-Please refer the report contained in the following link to download the instructions on setting up Authorization and Resource Servers:
-
-[https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx](https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx)
-
-
-##  Setting up the GitHub Application Binary
+##  Deploy the GitHub Application Binary
 
 This web application was developed using following:
 
@@ -77,8 +69,17 @@ Execute the following commands:
 ### Update composer.phar file
 
     php composer.phar update
+    
 
-## Running the Web Application
+# Setting up the Authorization and Resource Servers
+
+Please refer the report contained in the following link to download the instructions on setting up Authorization and Resource Servers:
+
+[https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx](https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx)
+
+
+
+# Running the Web Application
 
 Run the application by using the following commands: 
 
