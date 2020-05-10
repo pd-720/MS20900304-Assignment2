@@ -1,14 +1,16 @@
-# SS-Assignment2-OAuth2 demonstration
+# Software Security - Assignment - OAuth2 demonstration
 
-**Subject:** Software Security - IE5042
+Demonstrate OAuth2 authorization flows using Google OAuth2 as authorization server and Google Drive as resource server 
 
-**Assignment Name:** OAuth2 demonstration
+**Course:** Software Security - IE5042
 
-**Description:**  Demonstrate OAuth2 authorization flows using Google OAuth2 as authorization server and Google Drive as resource server 
+**Assignment Name:** Assignment 2 - OAuth2 demonstration
+
+**Student ID:** MS20900304
 
 **Name:** E.M.P.S. Dehideniya
 
-**Student ID:** MS20900304
+**Batch:** MSc-CS - Jan 2020
 
 **Email:** [ms20900304@my.sliit.lk](ms20900304@my.sliit.lk) 
 
