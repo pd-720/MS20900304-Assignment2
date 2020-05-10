@@ -25,14 +25,19 @@ This web application was developed and tested using following technologies:
 - PHP 7.3
 - PhpStorm 2020.1
 - Composer 1.10.6
+- Google OAuth2
+- Google Drive 
 
 
-## Download the contents as a ZIP file:
+## Deploy and Run the Web Application 
+
+## GitHub repository contents
  
 Navigate to 'Clone or Download' -> 'Download Zip' or use the following link:
 
 [https://github.com/pd-720/MS20900304-Assignment2/archive/master.zip](https://github.com/pd-720/MS20900304-Assignment2/archive/master.zip)
 
+Extract the contents of the downloaded file and navigate to the project folder.
 
 ## Setting up the Authorization Server and Resource Server
 
@@ -40,10 +45,11 @@ Please refer **Section 2 - Configure Authorization Server and Resource Server** 
 
 *Assignment Details/MS20900304-SS-Assignment2-Report.pdf*
 
+### Replace OAuth2 client ID information:
 
-## Deploy and Run the Web Application 
+Based on the downloaded OAuth2 client ID json file in the **Section 2.1.2.3 - Generate OAuth Client ID json file** of the report, replace the contents of the client_secrets.json located in the following path: 
 
-After configuring authorization server and resource servers as above, conduct the following steps to deploy the web application.
+*<project_root_folder>/resources/client/client_secrets.json*
 
 ### Set up PHP environment in Ubuntu:
 
@@ -87,7 +93,7 @@ Execute the following command to import Google API client and resolve dependenci
 
 ### Update composer.phar file
 
-Execute the following command to update the composer.phar file:
+Execute the following command to update the composer.phar file, after making any changes:
 
     php composer.phar update
     
@@ -96,8 +102,3 @@ Execute the following command to update the composer.phar file:
 Run the application by using the following command: 
 
     php -S localhost:8080 | firefox http://localhost:8080/login.php
-
-
-
-
-
