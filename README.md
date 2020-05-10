@@ -80,10 +80,6 @@ Open a terminal in the project root folder and execute the following commands:
     php composer-setup.php
     php -r "unlink('composer-setup.php');"
 
-**Note**: Use the following link for further information:
-
-[https://linuxize.com/post/how-to-install-php-on-ubuntu-18-04/#installing-php-73-on-ubuntu-1804](https://linuxize.com/post/how-to-install-php-on-ubuntu-18-04/#installing-php-73-on-ubuntu-1804)
-
 
 ### Create composer.phar file to adhere to Google API client:
 
