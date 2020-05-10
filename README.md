@@ -4,7 +4,7 @@
 
 **Assignment Name:** OAuth2 demonstration
 
-**Description:** 	Demonstrate OAuth2 authorization flows using Google OAuth2 as authorization server and Google Drive as resource server 
+**Description:**  Demonstrate OAuth2 authorization flows using Google OAuth2 as authorization server and Google Drive as resource server 
 
 **Name:** E.M.P.S. Dehideniya
 
@@ -12,7 +12,7 @@
 
 **Email:** [ms20900304@my.sliit.lk](ms20900304@my.sliit.lk) 
 
-**Report:** [https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx](https://github.com/pd-720/MS20900304-Assignment2/blob/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.docx)
+**Report:** [https://github.com/pd-720/MS20900304-Assignment2/raw/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.pdf](https://github.com/pd-720/MS20900304-Assignment2/raw/master/Assignment%20Details/MS20900304-SS-Assignment2-Report.pdf)
 
 
 ##  Deploy the GitHub Application Binary
