@@ -36,7 +36,7 @@ Navigate to 'Clone or Download' -> 'Download Zip' or use the following link:
 
 ## Setting up the Authorization Server and Resource Server
 
-Please refer **Section 2 - Configure Authorization Server and Resource Server** of the report contained in the path of the downloaded ZIP file:
+Please refer **Section 2 - Configure Authorization Server and Resource Server** of the report contained in the following path of the downloaded ZIP file:
 
 *Assignment Details/MS20900304-SS-Assignment2-Report.pdf*
 
